@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMLApp", "MyFirstMLApp\MyFirstMLApp.csproj", "{AD03BF26-AF02-4341-AA90-D4EBFD523562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictiveMaintenance", "PredictiveMaintenance\PredictiveMaintenance.csproj", "{ABFDFC52-4521-40C0-8E76-0155365FC19C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredictiveMaintenance", "PredictiveMaintenance\PredictiveMaintenance.csproj", "{ABFDFC52-4521-40C0-8E76-0155365FC19C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
